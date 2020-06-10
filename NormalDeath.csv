@@ -1,0 +1,329 @@
+name,birth,death,age
+AELI1006 P. Aelius (101) Q. f. P. n. Paetus,-239,-174,65
+CORN1023 L. Cornelius (188) L. f. L. n. Lentulus,-225,-173,52
+AEMI1024 L. Aemilius (109) Papus,-225,-172,53
+VETU1031 Ti. Veturius (22) L. f. L. n. Philo,-250,-204,46
+QUIN1041 P. Quinctilius (12) P. f. Varus,-250,-169,81
+FABI1053 Q. Fabius (104) Q. f. Q. n. Maximus,-219,-196,23
+SULP1060 C. Sulpicius (49) Galba,-230,-199,31
+AEMI1067 M. Aemilius (68) M. f. M. n. Lepidus,-230,-152,78
+GENU0108 Cn. Genucius (4),-525,-473,52
+PORC1084 P. Porcius (19) Pap. Laeca,-250,-164,86
+CORN1090 Cn. Cornelius (346) Cn. f. L. n. Scipio Hispallus,-220,-176,44
+SEMP1092 C. Sempronius (90) Tuditanus,-250,-196,54
+"FABI1097 Q. Fabius (31, 57) (Buteo)",-250,-196,54
+CLAU1125 C. Claudius (300) Ap. f. P. n. Pulcher,-220,-167,53
+"MANL1128 P. Manlius (31, cf. Manilius 2) (Vulso)",-275,-180,95
+AEMI1134 L. Aemilius (114) L. f. M. n. Paullus Macedonicus,-228,-160,68
+SEMP1157 M. Sempronius (95) M. f. C. n. Tuditanus,-225,-174,51
+POST1170 Sp. Postumius (44) L. f. A. n. Albinus,-219,-180,39
+AEMI1185 M. Aemilius (129) (Regillus),-225,-190,35
+FABI1188 Q. Fabius (127) Q. f. Pictor,-230,-167,63
+CALP1222 C. Calpurnius (62) C. f. C. n. Piso,-230,-180,50
+"CLAU1229 M. Claudius (223, 224) M. f. M. n. Marcellus",-230,-169,61
+DECI1239 C. Decimius (9) Flavus,-229,-184,45
+SEMP1241 P. Sempronius (65) Longus,-225,-183,42
+POST0125 Sp. Postumius (52b) A. f. P. n. Albus Regillensis,-525,-439,86
+FURI0127 Sp. Furius (71) Medullinus Fusus,-500,-453,47
+MINU1277 Ti. Minucius (43) Molliculus,-225,-180,45
+SERV0129 P. Servilius (73) Sp. f. P. n. Priscus,-500,-463,37
+AEBU0130 L. Aebutius (11) T. f. T. n. Helva,-500,-463,37
+CLAU1318 M. Claudius (225) M. f. M. n. Marcellus,-208,-148,60
+"VALE0132 M'. Valerius (67, cf. 243) (Maximus)",-500,-463,37
+FURI1323 L. Furius (77) Philus,-209,-170,39
+FABI1341 N. Fabius (56) Buteo,-225,-173,52
+CORN1362 P. Cornelius (202) L. f. L. n. Lentulus,-205,-121,84
+DOMI1366 Cn. Domitius (19) Cn. f. L. n. Ahenobarbus,-200,-125,75
+IUVE1387 M'. Iuventius (30) T. f. T. n. Pap. Thalna,-225,-163,62
+CORN1396 P. Cornelius (353) P. f. Cn. n. Scipio Nasica Corculum,-205,-141,64
+CORN1415 L. Cornelius (324) Scipio,-200,-161,39
+SULP1417 Ser. Sulpicius (58) Ser. f. P. n. Galba,-191,-130,61
+FABI1422 Q. Fabius (109) Q. f. Q. n. Maximus Aemilianus,-189,-130,59
+CAEC1424 Q. Caecilius (94) Q. f. L. n. Metellus Macedonicus,-190,-115,75
+PORC1433 M. Porcius (14) M. f. M. n. Cato Licinianus,-200,-152,48
+CASS1439 Q. Cassius (69) L. f. Q. n. Longinus,-200,-164,36
+CLAU1452 Ap. Claudius (295) Cn. f. Ap. n. Pulcher,-179,-130,49
+FURI0146 -. (Furius?) (3.1968) Carve(tus),-500,-458,42
+CORN1465 L. Cornelius (224) Cn. f. L. n. Lentulus Lupus,-199,-124,75
+VALE1466 L. Valerius (174) L. f. P. n. Flaccus,-199,-152,47
+CLAU1481 C. Claudius (106) Centho,-200,-155,45
+LICI1500 P. Licinius (72) P. f. P. n. Crassus Dives Mucianus,-169,-130,39
+CORN1504 P. Cornelius (335) P. f. P. n. Scipio Africanus Aemilianus,-185,-129,56
+CORN1513 P. Cornelius (354) P. f. P. n. Scipio Nasica Serapio,-180,-132,48
+MUCI1567 P. Mucius (17) P. f. Q. n. Scaevola,-180,-114,66
+CORN1568 L. Cornelius (192) P. f. L. n. Lentulus,-175,-130,45
+CLAU1579 M. Claudius (26) (Marcellus),-175,-137,38
+RUPI1591 P. Rupilius (5) P. f. P. n.,-185,-131,54
+FABI1594 Q. Fabius (110) Q. Aemiliani f. Q. n. Maximus Allobrogicus,-164,-100,64
+RUTI1596 P. Rutilius (34) P. f.  Rufus,-158,-75,83
+PERP1600 M. Perperna (4) M. f. L. n.,-175,-129,46
+MUCI1613 Q. Mucius (21) Q. f. Q. n. Scaevola 'Augur',-170,-87,83
+QUIN0163 Sex. Quinctilius (15) Sex. f. P. n.,-500,-453,47
+"DOMI1630 Cn. Domitius (20, Supb. 3.349) Cn. f. Cn. n. Ahenobarbus",-169,-103,66
+OPIM1639 L. Opimius (4) Q. f. Q. n.,-175,-57,118
+AEMI1645 M. Aemilius (140) M. f. L. n. Cam. Scaurus,-162,-88,74
+CAEC1649 L. Caecilius (91) L. f. Q. n. Metellus Delmaticus,-161,-103,58
+HORA0165 C. (or M.) Horatius (13) M. f. M. n. Pulvillus,-510,-453,57
+LIVI1651 M. Livius (17) C. f. M. n. Drusus,-155,-109,46
+PORC1656 M. Porcius (10) M. f. M. n. Pap. Cato,-175,-118,57
+"MARI1660 C. Marius (14, Supb. 6) C. f. C. n. Cor.",-158,-86,72
+LICI1679 L. Licinius (55) L. f. C. n. Crassus,-140,-91,49
+CORN1695 P. Cornelius (355) P. f. P. n. Scipio Nasica Serapio,-154,-111,43
+CORN1746 L. Cornelius (392) L. f. P. n. Sulla Felix ('Epaphroditus'),-138,-78,60
+AURE1749 L. Aurelius (181) L. f. L. n. Orestes,-150,-103,47
+CLAU1753 C. Claudius (302) Ap. f. C. n. Pulcher,-141,-91,50
+DOMI1763 Cn. Domitius (21) Cn. f. Cn. n. Ahenobarbus,-139,-89,50
+POMP1767 Cn. Pompeius (45) Sex. f. Cn. n. Strabo 'Menogenes',-132,-87,45
+POMP1781 A. Pompeius (3),-150,-102,48
+MENE0018  Menenius (12) C. f. - n. Lanatus,-550,-493,57
+PORC1806 M. Porcius (12) Pap. Cato,-130,-98,32
+CLAU1807 Ap. Claudius (296) Ap. f. C. n. Pulcher,-150,-76,74
+SERV1814 P. Servilius (93) C. f. M. n. Vatia Isauricus,-134,-44,90
+"VALE1815 L. Valerius (176, 177) L. f. L. n. Flaccus",-139,-71,68
+PERP1826 M. Perperna (5) M. f. M. n.,-148,-49,99
+IULI1828 Sex. Iulius (151) C. f. L.? n. Caesar,-125,-90,35
+SEST1854 L. Sestius (2),-150,-56,94
+AEMI1865 Mam. Aemilius (80) Mam. f. Lepidus Livianus,-119,-59,60
+AURE1866 C. Aurelius (96) M. f. Cotta,-124,-73,51
+SCRI1876 C. Scribonius (10) C. f. Curio 'Burbuleius',-119,-53,66
+VARI1877 Q. Varius (7) Severus Hybrida Sucronensis,-124,-83,41
+CAEC1889 Q. Caecilius (98) Q. f. L. n. Metellus Pius,-129,-64,65
+HORT1902 Q. Hortensius (13) L. f. Hortalus,-114,-50,64
+LICI1903 L. Licinius (104) L. f. L. n. Lucullus Ponticus,-117,-56,61
+MINU1934 L. Minucius (37) L. f. Vel. Basilus,-125,-70,55
+LUTA1949 Q. Lutatius (8) Q. f. Q. n. Catulus,-119,-59,60
+"TERE1963 M. Terentius (84, Supb. 6.1172ff) Qui. Varro Reatinus",-116,-27,89
+PUPI1974 M. Pupius (10) M. f. Piso Frugi Calpurnianus,-114,-46,68
+ANTO1984 Q. Antonius (41) Balbus,-125,-82,43
+AEMI1993 M. Aemilius (72) Q. f. M. n. Pal. Lepidus,-125,-77,48
+VISE2027 C. Visellius (3) C. f. Qui. Varro,-105,-58,47
+CORN2035 L. Cornelius (374) Sisenna,-118,-67,51
+OCTA2036 L. Octavius (26) Cn. f. Cn. n.,-125,-74,51
+CAEC2040 Q. Caecilius (86) Q. f. Q. or L.? n. Metellus Celer,-99,-59,40
+PEDU2042 Sex. Peducaeus (5),-125,-45,80
+IULI2044 L. Iulius (143) L. f. L. n. Caesar,-110,-40,70
+CORN2048 -. Cornelius (318) Scipio,-125,-77,48
+MANL2049 Q. Manlius (34),-125,-69,56
+AUTR2070 P. Autronius (7) L. f. Paetus,-108,-46,62
+ANTO2077 M. Antonius (29) M. f. Creticus,-125,-71,54
+"CORN2082 Cn. Cornelius (228, 24) P. f. Lentulus Marcellinus",-100,-45,55
+SULP2088 Ser. Sulpicius (95) Q. f. Lem. Rufus,-106,-43,63
+ARRI2098 Q. Arrius (7) Aem.,-125,-72,53
+ACIL2119 M'. Acilius (38) M'. f. M'. n. Glabrio,-111,-54,57
+IUNI2120 D. Iunius (163) M. f. Silanus,-107,-56,51
+CLAU2140 Ap. Claudius (297) Ap. f. Ap. n. Pulcher,-97,-48,49
+CAEC2150 L. Caecilius (74) C. f. Q. n. Metellus,-150,-68,82
+MARC2151 Q. Marcius (92) Q. f. Q. n. Rex,-125,-61,64
+"SULP2179 P. Sulpicius (55, cf. 48) Galba",-99,-47,52
+MUCI2191 P. Mucius (18) Q. f. P. n. Scaevola Cordus,-100,-57,43
+QUIN2192 Sex. Quinctilius (16) (Varus),-100,-64,36
+VOLU2195 P. Volumnius (6),-110,-56,54
+CORN2196 L. Cornelius (234) Lentulus Niger,-100,-56,44
+MANL2198 L. Manlius (80) L. f. L. n. Torquatus,-89,-46,43
+MANL2205 L. Manlius (79) L. f. Torquatus,-110,-46,64
+MARC2226 C. Marcius (63) C. f. C. n. Figulus,-100,-44,56
+GABI2234 A. Gabinius (11) A. f. - n.,-100,-47,53
+PLAU2265 P. Plautius (23) Hypsaeus,-100,-44,56
+CALP2272 M. Calpurnius (28) C. f. Bibulus,-102,-48,54
+COSC2286 C. Cosconius (4),-103,-59,44
+VATI2297 P. Vatinius (3) P. f. Ser.,-95,-41,54
+SULP0023 Ser. Sulpicius (35) P. f. - n. Camerinus Cornutus,-550,-463,87
+DOMI2313 Cn. Domitius (43) M. f. M. n. Men. Calvinus,-89,-20,69
+SULP2316 Ser. Sulpicius (61) Ser. n. Galba,-89,-43,46
+FUFI2321 Q. Fufius (10) Q. f. C. n. Pob. Calenus,-125,-40,85
+AEMI2341 M. Aemilius (73) M. f. Q. n. Lepidus,-90,-13,77
+NIGI2349 P. Nigidius (3) Figulus,-100,-45,55
+CALP2366 C. Calpurnius (93) L. f. Piso Frugi,-89,-57,32
+PEDI2370 Q. Pedius (1) M. f.,-100,-43,57
+PINA2373 L. Pinarius (19) Natta,-100,-56,44
+CALI2375 M. Calidius (4),-97,-47,50
+FABI2379 Q. Fabius (108) Q. f. Q. n. Maximus (Sanga?),-100,-45,55
+CLAU2396 C. Claudius (216) C. f. M. n. Marcellus,-100,-40,60
+CLAU2397 C. Claudius (217) M. f. M. n. Marcellus,-100,-44,56
+CANI2401 L. Caninius (3) Pol. Gallus,-100,-44,56
+SALL2429 C. Sallustius (10) Qui. Crispus,-86,-35,51
+SERV0244 Q. Servilius (75) P. f. Sp. n. Ser. Priscus Fidenas,-475,-390,85
+CASS2481 Q. Cassius (70) Longinus,-79,-47,32
+LIGA2506 Q. Ligarius (4) Ser.,-100,-30,70
+FURN2521 C. Furnius (3),-95,-17,78
+ANTI2522 T. Antistius (22),-100,-47,53
+VALE2536 M. Valerius (268) M. f. Lem. Messalla Rufus,-119,-26,93
+ASIN2553 C. Asinius (25) Cn. f. Arn. Pollio,-76,4,80
+CLAU2571 Ti. Claudius (254) Ti. f. Ap. n. Nero,-89,-33,56
+POST0258 Sp. Postumius (52) Sp.? f. A.? n. Albus (Regillensis),-510,-439,71
+IULI2597 C. Iulius (132) C. f. C. n. Fab. Caesar Octavianus = C. Octavius C. f. Sca. Thurinus (or Caepias),-63,14,77
+TILL2634 L. Tillius (5) Cimber,-100,-30,70
+VENT2638 P. Ventidius (5) P. f. Fab. Bassus,-98,-37,61
+"SERV2686 -. (Servilius) (52, cf. 53) Casca",-75,-42,33
+OCTA2697 M. Octavius (71) Ser. Marsus,-75,-43,32
+DOMI2699 Cn. Domitius (23) L. f. Cn. n. Ahenobarbus,-75,-31,44
+SERV2720 P. Servilius (53) Casca Longus,-75,-42,33
+HORA2731 Q. Horatius (10) Flaccus,-65,-8,57
+CALP2739 L. Calpurnius (27) Bibulus,-75,-32,43
+CANI2741 P. Canidius (2) P. f.  Crassus,-75,-30,45
+LOLL2749 M. Lollius (11) Paullinus,-75,-2,73
+VALE2758 M. Valerius (261) M. f. M. n. Messalla Corvinus,-64,13,77
+VIPS2808 M. Vipsanius (2) L. f. Agrippa,-64,-12,52
+SEMP2823 L. Sempronius (26) L. f. L. n. Fal. Atratinus,-73,7,80
+MAEC2850 C. Maecenas (6) Pom.,-75,-8,67
+OCCI2857  Occia (3),-39,19,58
+OPPI2859 M. Oppius (15) M. f.,-75,-35,40
+AEMI2895 L. Aemilius (82) L. f. M. n. Tro. Lepidus Paullus,-69,-13,56
+VALE2913 M. Valerius (255) M. f. Messalla,-80,-20,60
+IUNI2929 L. Iunius (165) M. f. D. n. Silanus,-59,-12,47
+"AELI2943 C. (or L.) Aelius (103, cf. 148, 149) Tubero",-250,-216,34
+CEST2947 C. Cestius (7) L. f. Pob. Epulo,-50,-12,38
+SERV2973 C. Servilius (91) M. f. M. n. Vatia,-159,-95,64
+VALE0003 P. Valerius (302) Volus. f. - n. Poplicola,-550,-503,47
+CAEP3041 C. Caepasius (1),-101,-48,53
+"TULL3062 -. Tullius (49, cf. 9) Ste. Rufus",-100,-46,54
+PLAE3232 -. Plaetorius (19) Rustianus (or Cestianus),-100,-49,51
+IULI0325 C. Iulius (295) Sp. f. Vopisci n. Iullus,-450,-393,57
+CAEC3310 -. Caecilius (not in RE),-75,-30,45
+AUFU3311 C. Aufustius (not in RE),-75,-43,32
+ANNI3325 P. Annius (31) Asellus,-125,-75,50
+AQUI3328 -. Aquillius (19) Florus,-75,-31,44
+AQUI3329 -. Aquillius (cf. 19) (Florus?),-125,-31,94
+CLAU0335 Ap. Claudius (122) P. f. Ap. n. Crassus Inregillensis,-450,-349,101
+FURI0340 M. Furius (44) L. f. Sp. n. Camillus,-448,-365,83
+PUBL3505 C. Publicius (19) C. f. Malleolus,-150,-80,70
+IUVE3587 M.? Iuventius (not in RE) Laterensis,-125,-54,71
+VALE0037 M'. Valerius (243) Volus. f. Maximus,-525,-463,62
+POST0382 Sp. Postumius (61) Albinus Regillensis,-425,-380,45
+QUIN3824 L. Quinctius (42),-279,-226,53
+RUBR3831 -. Rubrius (23) Ruga,-75,-30,45
+FULV3865 Q. Fulvius (62) Flaccus,-200,-121,79
+CORN3873  Cornelia (413),-150,-68,82
+IULI3874  Iulia (547),-73,-54,19
+ATIA3884  Atia (34) maior,-125,-43,82
+PORC3890  Porcia (28),-125,-43,82
+FULV3893  Fulvia (113),-125,-40,85
+SCRI3902  Scribonia (31),-125,-36,89
+CLAU3911 M. Claudius (230) Marcellus,-100,-23,77
+AEMI3913 M. Aemilius (104) Lepidus,-125,-30,95
+SERV3917 Q. Servilius (40-42) Caepio,-125,-67,58
+LICI3918 M. Licinius (109) Lucullus,-150,-56,94
+TULL3928  Tullia (60),-79,-45,34
+CAEC3929  Caecilia (134) Metella,-175,-79,96
+IULI3948  Iulia (541),-150,-69,81
+LIVI3949  Livia (35),-175,-92,83
+CLAU3950 Ti. Claudius (Iulius 154) Nero,-42,37,79
+LICI3951 C. Licinius (113) Macer Calvus,-82,-53,29
+QUIN3952  Quinctilia (19),-150,-53,97
+IUNI3963  Iunia (206) Tertia,-75,22,97
+POMP3965 T. Pomponius (102) Atticus,-110,-32,78
+CAEC3978  Caecilia (124c),-132,-42,90
+CAEC3979 Q. Caecilius (23),-100,-58,42
+CAEC3980  Caecilia (78) Attica = Pomponia Attica,-125,-28,97
+CORN3987 -. Cornelius (B) Dolabella,-125,-49,76
+CORN3989 -. Cornelius (172a) Lentulus,-125,-45,80
+LUCR0004 Sp. Lucretius (30) T. ? f. - n. Tricipitinus,-550,-509,41
+LICI4000 P. Licinius (62) Crassus Dives,-175,-87,88
+PORC4012  Porcia (27),-125,-45,80
+LICI4080 M. Licinius (110) Lucullus,-64,-42,22
+TULL4081 L. Tullius (26) Cor. Cicero,-150,-68,82
+TULL4093 M. Tullius (28) Cor. Cicero,-175,-64,111
+TERE4103 M. Terentius (90) Varro Lucullus,-150,-56,94
+IUVE4119 -. Iuventius (A) Laterensis,-150,-54,96
+TREB4150 P. Trebonius (12),-125,-73,52
+IULI4174  Iulia (550),-39,14,53
+LIVI4192  Livia (37),-58,29,87
+CLAU4194 -. Claudius (139) Drusus,-38,-9,29
+DOMI4195 L. Domitius (28) Ahenobarbus,-75,25,100
+PAPI4201  Papiria (78),-250,-159,91
+AURE4258  Aurelia (248),-150,-54,96
+CLAU4311 -. Claudius (290) Pulcher,-125,-42,83
+FABI4328 -. Fabius (102) Maximus,-46,14,60
+SALL4329 C. Sallustius (11) Crispus,-75,20,95
+VALE4355 M. Valerius (264) Messalla Messallinus,-36,21,57
+AELI4530 L. Aelius (144) Mae. Stilo Praeconinus,-154,-74,80
+TREB4537 C. Trebatius (7) Testa,-84,-4,80
+VALE4538 C. Valerius (123) Catullus,-84,-54,30
+VETT4539 L. Vettius (6) Vel.,-89,-63,26
+LABE4542 D. Laberius (3),-106,-43,63
+PORC4543 M. Porcius (2) Pap. Cato,-234,-149,85
+ALBI4545 -. Albius (10) Clu. Oppianicus,-125,-69,56
+CORF4549 L. Corfidius (2) Clu.,-100,-44,56
+POMP4552 T. Pomponius (Supp. 8 T. Pomponius Atticus),-125,-88,37
+SPUR4607 M. Spurius (2),-75,-30,45
+COEL4646 P. Coelius (not in RE) P. f. Etruscus,-105,-51,54
+CORN4649 P. Cornelius (22) P. f. P. n. Scipio,-195,-170,25
+FUND4653 L. Fundilius (2),-100,-56,44
+HERE4657 M. Herennius (46) Siculus,-200,-121,79
+PAPI4665 C. Papirius (57) C. f. L. n. Maso,-275,-213,62
+"POMP4667 Cn. Pompeius (7, 112) Q. f. Arn.",-70,14,84
+"PUBL4669  Publicia (26, Publilia 16)",-200,-154,46
+VOLC4678 C. Volcatius (Vulcanius 1) C. f.,-100,-44,56
+DOMI4693  Domitia (102) Lepida,-25,54,79
+CORN4703 -. Cornelius (5),-125,-44,81
+POST0485 -. Postumius (59) Regillensis Albinus,-400,-365,35
+SEXT5126 -. Sextius (33) Naso,-75,-30,45
+ATIL5135 -. Atilius (cf. 6),-125,-42,83
+CORN0555 P. Cornelius (79) Calussa,-325,-254,71
+"CORN0563 P. Cornelius (316, cf. 315) P. f. Scapula",-375,-301,74
+VALE0570 M. Valerius (244) M. f. M. n. Maximus Corvinus,-375,-271,104
+MARC0601 C. Marcius (98) C. f. L. n. Rutilus Censorinus,-340,-260,80
+LIVI0624 M. Livius (11) - f. C. n. Denter,-375,-294,81
+MANL0637 T. Manlius (81) T. f. T. n. Torquatus,-350,-299,51
+CURI0641 M'. Curius (9) M'. f. M'. n. Cor. Dentatus,-324,-270,54
+HORT0664 Q. Hortensius (7),-325,-287,38
+VALE0682 P. Valerius (213) Laevinus,-325,-280,45
+CORU0683 Ti. Coruncanius (3) Ti. f. Ti. n. Pap.,-311,-243,68
+POST0690 L. Postumius (39) L. f. Albinus,-325,-250,75
+PAPI0695 L. Papirius (72) L. f. M. n. Praetextatus,-325,-272,53
+CLAU0702 Ap. Claudius (317) Ap. f. C. n. Russus,-300,-268,32
+FABI0712 Q. Fabius (116) Q. f. Q. n. Fal. Pup. Maximus Ovicula Verrucosus Cunctator,-279,-203,76
+POST0718 L. Postumius (56) L. f. L. n. Megellus,-300,-253,47
+CAED0735 Q. Caedicius (8) Q. f. Q. n.,-300,-256,44
+CLAU0744 P. Claudius (304) Ap. f. C. n. Pulcher,-283,-246,37
+CAEC0751 L. Caecilius (72) L. f. C. n. Metellus,-300,-221,79
+CORN0076 Ser. Cornelius (253) Maluginensis Tricostus,-500,-453,47
+POST0766 A. Postumius (30) A. f. L. n. Albinus,-275,-215,60
+LUTA0768 Q. Lutatius (13) C. f. C. n. Cerco,-274,-236,38
+CORN0780 L. Cornelius (211) L. f. Ti. n. Lentulus Caudinus,-279,-213,66
+CLAU0784 M. Claudius (115) Clineas,-275,-236,39
+AEMI0785 M'. Aemilius (103) M'. f. (Lepidus) Numida,-250,-211,39
+MANL0787 T. Manlius (82) T. f. T. n. Torquatus,-279,-202,77
+CARV0789 Sp. Carvilius (10) Sp. f. C. n. Maximus (Ruga),-272,-211,61
+CORN0790 P. Cornelius (42),-275,-234,41
+POMP0791 M'. Pomponius (17) M'. f. M'. n. Matho,-275,-211,64
+AEMI0792 M. Aemilius (66) M. f. M. n. Lepidus,-277,-216,61
+VALE0807 M. Valerius (211) P. f. P. n. Laevinus,-254,-200,54
+FURI0814 P. Furius (80) Sp. f. M. n. Philus,-250,-214,36
+CORN0815 M. Cornelius (92) M. f. M. n. Cethegus,-250,-196,54
+"FABI0082 M. Fabius (160, cf. 159) K. f. - n. Vibulanus",-525,-477,48
+MUCI0822 Q. Mucius (19) P. f. Scaevola,-250,-209,41
+VETU0824 L. Veturius (19) L. f. Post. n. Philo,-260,-209,51
+FURI0828 L. Furius (36) Bibaculus,-250,-220,30
+FURI0831 -. Furius (cf. 36) Bibaculus,-300,-221,79
+SEMP0833 Ti. Sempronius (66) C. f. C. n. Longus,-250,-210,40
+"OPPI0084  Oppia (36, cf. Opimia 13)",-500,-483,17
+POMP0853 M. Pomponius (18) M'. f. M'. n. Matho,-275,-204,71
+AEMI0854 M. Aemilius (128) Regillus,-250,-205,45
+OTAC0856 T. Otacilius (12) Crassus,-259,-211,48
+AURE0870 M. Aurelius (103) Cotta,-250,-200,50
+CORN0877 Cn. Cornelius (176) L. f. L. n. Lentulus,-239,-184,55
+CORN0878 P. Cornelius (336) P. f. L. n. Scipio Africanus Maior,-235,-183,52
+FABI0879 Q. Fabius (103) Q. f. Q. n. Maximus,-249,-204,45
+AELI0889 Q. Aelius (103) P. f. Paetus,-250,-216,34
+SCAN0890 P. Scantinius (2),-250,-216,34
+PORC0907 M. Porcius (9) M. f. Pap. Cato 'Censorius',-234,-149,85
+VERG0091 T. Verginius (22) Opet. f. Opet. n. Tricostus Rutilus,-510,-463,47
+SERV0919 Cn. Servilius (44) Cn. f. Cn. n. Caepio,-237,-174,63
+SERV0092 C. Servilius (87) Structus Ahala,-525,-478,47
+PAPI0921 C. Papirius (58) L. f. Maso,-250,-213,37
+LICI0926 P. Licinius (69) P. f. P. n. Crassus Dives,-235,-183,52
+VALE0930 L. Valerius (173) P. f. L. n. Flaccus,-229,-180,49
+SERV0931 C. Servilius (60) C. f. P. n. Geminus,-240,-180,60
+CORN0938 L. Cornelius (187) Lentulus,-250,-172,78
+LIVI0952 C. Livius (29) M. f. M. n. Salinator,-235,-170,65
+MARC0975 M. Marcius (20),-269,-210,59
+SEMP0976 Ti. Sempronius (67) Ti. f. C. n. Longus,-230,-174,56
+QUIN0977 L. Quinctius (43) T. f. L. n. Flamininus,-229,-170,59
+CORN0980 Cn. Cornelius (131) Dolabella,-250,-180,70
+AEMI0981 M. Aemilius (111) Papus,-250,-210,40
+MAMI0982 C. Mamilius (5) Atellus,-225,-174,51
+SULP0987 Ser. Sulpicius (56) Ser. f. P. n. Galba,-250,-199,51
+LAEL0992 C. Laelius (2) C. f. C. n.,-235,-151,84
+VALE0993 C. Valerius (166) P. f. L. n. Flaccus,-229,-174,55
+CLAU0997 M. Claudius (222) M. f. M. n. Marcellus,-229,-177,52

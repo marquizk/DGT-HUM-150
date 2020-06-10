@@ -1,0 +1,402 @@
+﻿country,continent,lifeExp,pop,gdpPercap
+"IUNI0001 L. Iunius (46a, Supb. 5.356ff.) M. f. Brutus",Violent,31,31,-509
+AULI1004 M'. Aulius (1),Violent,42,42,-208
+MATI1027 P. Matienus (5),Violent,45,45,-205
+SERG1029 M. Sergius (19),Violent,45,45,-205
+COSC1045 M. Cosconius (7),Violent,47,47,-203
+HELV1046 C. Helvius (1),Violent,29,29,-203
+MAEV1047 M. Maevius (4),Violent,47,47,-203
+"BAEB1052 L. Baebius (14, 25) Dives",Violent,61,61,-189
+MINU1064 Q. Minucius (65) Q. f. L. n. Thermus,Violent,41,41,-187
+AMPI1069 C. Ampius (not in RE),Violent,49,49,-201
+"APUS1088 L. Apustius (2,  5) (Fullo)",Violent,41,41,-190
+HERM0011 T. Herminius (2) Aquilinus,Violent,51,51,-499
+FURI0110 P. Furius (69) Medullinus Fusus,Violent,61,61,-464
+IUVE1106 T. Iuventius (9) (Thalna),Violent,53,53,-197
+LIGU1107 Cn. Ligurius (2),Violent,53,53,-197
+CLAU1119 P. Claudius (28),Violent,54,54,-196
+ORBI0112  Orbinia (RE 18.1.877),Violent,28,28,-472
+IUNI1123 M. Iunius (168) Silanus,Violent,54,54,-196
+SEMP1124 T. (or Ti.) Sempronius (60) Gracchus,Violent,54,54,-196
+CLAU0113 Ap. Claudius (123) Ap. f. M. n. Crassinus Inregillensis Sabinus,Violent,76,76,-449
+POST1143 L. Postumius (65) Tympanus,Violent,31,31,-194
+ATIN1145 M. Atinius (5),Violent,31,31,-194
+SEMP1146 P. Sempronius (11),Violent,31,31,-194
+GENU1160 M. Genucius (7),Violent,32,32,-193
+MARC1161 M. Marcius (21),Violent,32,32,-193
+MARC1162 Q. Marcius (21),Violent,32,32,-193
+"PETI1219 Q. Petillius (11, cf. 4) C. f. Q. n. Spurinus",Violent,43,43,-176
+"ATIN1220 C. Atinius (1, 2)",Violent,39,39,-186
+FULV1242 Q. Fulvius (61) Q. f. M. n. Flaccus,Violent,47,47,-172
+VALE0013 M. Valerius (74) Volus. f. (Volusus),Violent,51,51,-499
+LICI1305 M. Licinius (166) Strabo,Violent,47,47,-178
+OCTA1356 Cn. Octavius (17) Cn. f. Cn. n.,Violent,47,47,-162
+POST1406 L. Postumius (42) Sp. f. L. n. Albinus,Violent,45,45,-154
+CLAU0141 C. Claudius (322) Ap. f. M. n. Crassus Inregillensis Sabinus,Violent,40,40,-460
+TERE1486 -. Terentius (77) Varro,Violent,46,46,-154
+IUVE1507 P. Iuventius (31) Thalna,Violent,52,52,-148
+VETI1522 C. Vetilius (1),Violent,54,54,-146
+SEMP1525 Ti. Sempronius (54) Ti. f. P. n. Gracchus,Violent,29,29,-133
+HOST1562 L. Hostilius (26) Tubulus,Violent,34,34,-141
+IUNI1566 D. Iunius (161) Silanus Manlianus,Violent,35,35,-140
+OPPI1571 -. Oppius (3),Violent,35,35,-140
+"MEMM1595 C. Memmius (5, 3)",Violent,43,43,-100
+SEMP1598 C. Sempronius (47) Ti. f. P. n. Gracchus,Violent,33,33,-121
+SICC0161 L. Siccius (3) Dentatus 'Achilles Romanus',Violent,65,65,-449
+PAPI1623 C. Papirius (33) C. f. Carbo,Violent,44,44,-119
+FULV1624 M. Fulvius (58) M. f. Flaccus,Violent,47,47,-121
+LICI1646  Licinia (181) C. f.,Violent,27,27,-113
+POMP1675 Sex. Pompeius (17),Violent,40,40,-120
+AURE1683 M. Aurelius (215) Scaurus,Violent,45,45,-105
+MUCI1692 Q. Mucius (22) P. f. P. n. Scaevola 'Pontifex',Violent,58,58,-82
+AEMI1698  Aemilia (153),Violent,26,26,-114
+MARC1700  Marcia (114),Violent,37,37,-113
+ANTO1705 M. Antonius (28) M. f. M. n.,Violent,56,56,-87
+CALP1712 L. Calpurnius (88) L. f. C. n. Piso Caesoninus,Violent,43,43,-107
+CALP1713 L. Calpurnius (97) Piso Frugi,Violent,39,39,-111
+CASS1715 L. Cassius (62) L. f. Longinus,Violent,43,43,-107
+"POST1728 A. Postumius (33, cf. 32, 34) Albinus",Violent,53,53,-89
+LUTA1731 Q. Lutatius (7) Q. f. Catulus,Violent,62,62,-87
+SERV1734 C. Servilius (65) Glaucia,Violent,42,42,-100
+TURP1735 T. Turpilius (10) Silanus,Violent,41,41,-109
+LIVI1756 M. Livius (18) M. f. C. n. Drusus,Violent,28,28,-91
+AQUI1757 M'. Aquillius (11) M'. f. M'. n.,Violent,62,62,-88
+APPU1766 L. Appuleius (29) Saturninus,Violent,33,33,-100
+LUSI1769 C. Lusius (1) Ter.,Violent,46,46,-104
+DIDI1776 T. Didius (5) T. f. Sex. n.,Violent,61,61,-89
+NORB1777 C. Norbanus (5) (Balbus),Violent,68,68,-82
+OPPI0178 Sp. Oppius (27) Cornicen,Violent,51,51,-449
+LICI1780 P. Licinius (61) M. f. P. n. Crassus (Dives),Violent,63,63,-87
+AEMI1783 M. Aemilius (137) Scaurus,Violent,48,48,-102
+GRAT1786 M. Gratidius (2) Cor.,Violent,48,48,-102
+SERV1796 Q. Servilius (50) Caepio,Violent,41,41,-90
+IULI1798 C. Iulius (135) L. f. Caesar Strabo Vopiscus,Violent,43,43,-87
+VALE1802 L. Valerius (178) C.? f. L. n. Flaccus,Violent,50,50,-85
+EQUI1803 L. Equitius (3) Vel. 'Pseudogracchus',Violent,50,50,-100
+FURI1804 P. Furius (22),Violent,52,52,-98
+POMP1805 Q. Pompeius (39) Q. f. A.? n. Rufus,Violent,41,41,-88
+SAUF1809 C. Saufeius (3),Violent,50,50,-100
+DOMI1816 L. Domitius (26) Cn. f. Cn. n. Ahenobarbus,Violent,68,68,-82
+SERT1818 Q. Sertorius (3) Qui.,Violent,52,52,-71
+PAPI1835 C. Papirius (40) C. f. Carbo Arvina,Violent,42,42,-82
+RUTI1837 P. Rutilius (26) L. f. L. n. Lupus,Violent,35,35,-90
+PORC1841 L. Porcius (7) M. f. M. n. Pap. Cato,Violent,61,61,-89
+PAPI1843 Cn. Papirius (38) Cn. f. C. n. Carbo,Violent,47,47,-82
+SERV1849 Q. Servilius (29),Violent,35,35,-90
+CORN1871 L. Cornelius (106) L. f. L. n. Cinna,Violent,41,41,-84
+CORN1872 L. Cornelius (272) Merula,Violent,43,43,-87
+OCTA1873 Cn. Octavius (20) Cn. f. Cn. n.,Violent,43,43,-87
+POST1874 L. Postumius (13),Violent,35,35,-90
+CORN1883 P. Cornelius (203) Lentulus,Violent,38,38,-87
+FONT1884 -. Fonteius (2),Violent,34,34,-91
+SULP1886 P. Sulpicius (92) (Rufus),Violent,36,36,-88
+SEMP1894 A. Sempronius (17) Asellio,Violent,36,36,-89
+AEBU1913 D. Aebutius (3) D. f. Cor.,Violent,38,38,-87
+"GABI1920 A. Gabinius (9, cf. 8)",Violent,36,36,-89
+ANCH1928 Q. Ancharius (2),Violent,38,38,-87
+IUNI1929 M. Iunius (51) Brutus,Violent,43,43,-82
+GRAT1933 M. Gratidius (1) Cor.,Violent,37,37,-88
+LUCI1938 Sex. Lucilius (15),Violent,39,39,-86
+MARI1940 M. Marius (42) Cor. Gratidianus,Violent,43,43,-82
+MILO1941 C. Milonius (2),Violent,38,38,-87
+FLAV1946 C. Flavius (88) Fimbria,Violent,30,30,-85
+MARC1947 C. Marcius (43) Censorinus,Violent,29,29,-82
+COEL1956 P. Coelius (Caelius 16) Caldus,Violent,38,38,-87
+IULI1957 C. Iulius (131) C. f. C. n. Fab. Caesar,Violent,56,56,-44
+HIRT1960 -. Hirtuleius (1),Violent,50,50,-75
+FABI1964 C. Fabius (82) C. f. Q. n. Mae. Hadrianus,Violent,67,67,-83
+VERR1967 C. Verres (1) Rom.,Violent,84,84,-41
+"BURR1970 P.? Burrenus (Burrienus 1, and RE 3.1070)",Violent,45,45,-80
+IUNI1973 M. Iunius (52) Brutus,Violent,40,40,-77
+POMP1976 Cn. Pompeius (31) Cn. f. Sex. n. Clu. Magnus,Violent,58,58,-48
+CARR1977 C. Carrinas (1),Violent,43,43,-82
+IUNI1980 L. Iunius (58) L. f. Gal. Brutus Damasippus,Violent,45,45,-80
+LICI1981 M. Licinius (68) P. f. M. n. Crassus,Violent,62,62,-53
+MARI1983 C. Marius (15) C. f. C. n.,Violent,26,26,-82
+PERP1986 M. Perperna (6) Veiento,Violent,53,53,-72
+VALE1989 Q. Valerius (345) Rom. Soranus,Violent,45,45,-80
+DOMI1991 Cn. Domitius (22) Ahenobarbus,Violent,44,44,-81
+COEL1995 C. Coelius (6) Antipater,Violent,43,43,-82
+FLAV1996 -. Flavius (86) Fimbria,Violent,43,43,-82
+SERG1998 L. Sergius (23) Tro. Catilina,Violent,63,63,-62
+CASS0020 Sp. Cassius (91) Vecellinus,Violent,65,65,-485
+LUCR2003 Q. Lucretius (25) Afella (or Ofella),Violent,42,42,-82
+VENU2004 -. Venuleius (1),Violent,43,43,-82
+PAPI2011 C. Papirius (34) (Cn. f.) Carbo,Violent,45,45,-80
+CORN2012 P. Cornelius (240) P. f. P. n. Lentulus Sura,Violent,51,51,-63
+FABI2013 L. Fabius (84) L. f. Hispaniensis,Violent,54,54,-71
+"LIVI2018 L. Livius (31, Iulius 453) Salinator",Violent,44,44,-81
+"MEMM2020 C. Memmius (6, 7) L. f. Gal.",Violent,50,50,-75
+DOMI2022 M. Domitius (44) Calvinus,Violent,45,45,-80
+HERE2024 C. Herennius (7),Violent,50,50,-75
+HIRT2033 L. Hirtuleius (3) L. f.,Violent,50,50,-75
+THOR2034 L. Thorius (4) Mae. Balbus,Violent,71,71,-79
+SICI2052 Cn. Sicinius (9),Violent,33,33,-76
+MARI2053 M. Marius (23),Violent,52,52,-73
+LAEL2056 D. Laelius (5),Violent,48,48,-77
+OCTA2057 C. Octavius (55) Graecinus,Violent,54,54,-71
+TARQ2058 C. Tarquitius (8) L. f. Fal. Priscus,Violent,54,54,-71
+TULL2072 M. Tullius (29) M. f. M. n. Cor. Cicero,Violent,63,63,-43
+AFRA2074 L. Afranius (6) A. f. Vel.,Violent,79,79,-46
+COSS2100 L. Cossinius (2) Lem.,Violent,52,52,-73
+LICI2103 C. Licinius (112) L. f. Macer,Violent,42,42,-66
+TORA2106 C. Toranius (4),Violent,84,84,-41
+ANTO2146 M. Antonius (not in RE),Violent,54,54,-71
+MAEC2148 -. Maecenas (2),Violent,54,54,-71
+MANL2149 M. Manlius or Mallius (Manlius 5),Violent,54,54,-71
+TULL2216 Q. Tullius (31) M. f. M. n. Cor. Cicero,Violent,59,59,-43
+CLOD2219 P. Clodius (48) Ap. f. Pal. Pulcher,Violent,39,39,-52
+LUCC2225 L. Lucceius (6) Q. f.,Violent,59,59,-41
+PORC2241 M. Porcius (16) M. f. M. n. Pap. Cato (Uticensis),Violent,49,49,-46
+"SEPT2242 L. Septimius (9, 10a)",Violent,52,52,-48
+POMP2253 Cn. Pompeius (32) Cn. f. Cn. n. Magnus,Violent,55,55,-45
+POMP2254 Sex. Pompeius (33) Cn. f. Cn. n. Magnus Pius,Violent,35,35,-35
+DOMI2264 L. Domitius (27) Cn. f. Cn. n. Fab. Ahenobarbus,Violent,50,50,-48
+CALP2274 Cn. Calpurnius (69) Piso,Violent,36,36,-64
+PETR2280 M. Petreius (3) Hor.,Violent,46,46,-46
+CORN2290 P. Cornelius (238) P. f. L. n. Lentulus Spinther,Violent,53,53,-47
+LABI2292 T. Labienus (6) Vel. 'Rabienus',Violent,55,55,-45
+CORN2300 Faustus Cornelius (377) L. f. L. n. Sulla,Violent,43,43,-46
+IUVE2308 M. Iuventius (16) (M. f.) Pap. Laterensis,Violent,57,57,-43
+FULC0233 C. Fulcinnius (1),Violent,37,37,-438
+TREB2336 C. Trebonius (6) C. f.,Violent,57,57,-43
+CLOE0234 -. Cloelius (6) Tullus,Violent,37,37,-438
+CAEC2347 Q. Caecilius (99) Q. f. Q. n. Fab. Metellus Pius Scipio = P. Cornelius (352) Scipio Nasica,Violent,49,49,-46
+COSC2348 C. Cosconius (5) C. f.,Violent,53,53,-47
+ANTI0235 Sp. Antius (6),Violent,37,37,-438
+FAVO2352 M. Favonius (1) Ouf.,Violent,48,48,-42
+CORN2356 L. Cornelius (218) P. f. L. n. Pal. Lentulus Crus,Violent,50,50,-48
+VILL2358 L. Villius (7) Pom. Annalis,Violent,57,57,-43
+CONS2359 C. Considius (11) Longus,Violent,54,54,-46
+ROSC0236 L. Roscius (4),Violent,37,37,-438
+AURU2369 L. Aurunculeius (6) Cotta,Violent,46,46,-54
+TITU2371 Q. Titurius (3) Ser. Sabinus,Violent,46,46,-54
+LICI2372 P. Licinius (63) M. f. (P.? n.) Crassus,Violent,29,29,-53
+"IULI2374 Sex. Iulius (152, 153) Caesar",Violent,37,37,-46
+QUIN2376 Sex. Quinctilius (4) Varus,Violent,59,59,-41
+SEPT2377 C. Septimius (7) Qui. T. f.,Violent,59,59,-41
+ANNI2381 T. Annius (67) Mae. Milo = T. Papius Milo,Violent,52,52,-48
+ANTO2392 M. Antonius (30) M. f. M. n.,Violent,53,53,-30
+CORN2394 P. Cornelius (239) P. f. Lentulus Spinther,Violent,33,33,-42
+CLAU2398 M. Claudius (229) M. f. M. n. Marcellus,Violent,50,50,-45
+CAEL2417 M. Caelius (35) Vel. Rufus,Violent,34,34,-48
+ATEI2422 C. Ateius (7) C. f. Capito,Violent,57,57,-43
+LIGA2442 T. Ligarius (5) Ser.,Violent,59,59,-41
+SCRI2443 C. Scribonius (11) C. f. C. n. Curio,Violent,51,51,-49
+LABE2446 Q. Laberius (6) Durus,Violent,46,46,-54
+PETR2447 -. Petronius (84),Violent,47,47,-53
+HIRT2449 A. Hirtius (2) A. f. Pob.,Violent,36,36,-43
+OCTA2451 -. Octavius  (5),Violent,47,47,-53
+VARG2452 -. Vargunteius (1),Violent,47,47,-53
+ATTI2455 P. Attius (32) Varus,Violent,55,55,-45
+CASS2458 C. Cassius (59) Longinus,Violent,40,40,-42
+IUNI2459 M. Iunius (53) M. f. Brutus = Q. Servilius Caepio Brutus,Violent,43,43,-42
+"MARC2464 -. (Marcius) (42, cf. 43) Censorinus",Violent,32,32,-53
+MEGA2465 -. Megabocchus (1),Violent,32,32,-53
+"IUNI2489 D. Iunius (55a, Supb. 5.369) D. f. D. n. Brutus Albinus",Violent,57,57,-43
+VIBI2495 C. Vibius (16) C. f. C. n. Tro. Pansa Caetronianus,Violent,46,46,-43
+ANTO2497 C. Antonius (20) M. f. M. n.,Violent,38,38,-42
+LUCI2502 Sex. Lucilius (16),Violent,49,49,-51
+CORN2515 P. Cornelius (141) P. f. Dolabella = P. Cornelius Lentulus,Violent,26,26,-43
+LIVI2520 M. Livius (19) Drusus (Claudianus),Violent,58,58,-42
+QUIN2542 Sex. Quinctilius (17) Varus,Violent,58,58,-42
+VULT2549 C. Vulteius (Vulteius) Capito,Violent,51,51,-49
+HORT2554 Q. Hortensius (8) Q. f. L. n. Hortalus,Violent,58,58,-42
+IULI2559 L. Iulius (144) L. f. L. n. Caesar,Violent,54,54,-46
+CORN2572 P. Cornelius (232) Lentulus Marcellinus,Violent,52,52,-48
+CORN2573 Q. Cornificius (8) Q. f. Mae.,Violent,48,48,-42
+TITI2576 L.? Titius (13) L. f. Hispanus,Violent,54,54,-46
+PATI2578 Q. Patisius (1),Violent,70,70,-30
+STAI2588 L. Staius (2) Vol. Murcus,Violent,61,61,-39
+GALL2605 Q. Gallius (7),Violent,57,57,-43
+GRAN2610 -. Granius (9) Fal. Petro,Violent,54,54,-46
+TERE2611 M. Terentius (89) Varro Gibba,Violent,58,58,-42
+TITI2617 -. Titius (cf. 13) L. f. Hispanus,Violent,54,54,-46
+"AQUI2618 M. Aquinus (5, Aquinius 2)",Violent,70,70,-30
+DIDI2619 C. Didius (2),Violent,55,55,-45
+TULL2632 Q. Tullius (32) Q. f. M. n. Cicero,Violent,23,23,-43
+POMP2633 A. Pompeius (26) Bithynicus,Violent,58,58,-42
+PONT2637 L. Pontius (17) Pap. Aquila,Violent,57,57,-43
+BAEB2645 -. Baebius (5),Violent,56,56,-44
+CEST2662 C. Cestius (3),Violent,34,34,-41
+"ANON2667 P. - (RE 16.1792 (1), no. 4) Naso",Violent,59,59,-41
+TURR2669 C. Turranius (4),Violent,32,32,-43
+CANN2677 Ti. Cannutius (3),Violent,32,32,-43
+CARF2678 D. Carfulenus (1),Violent,57,57,-43
+DECI2679 L. Decidius (4) Saxa,Violent,35,35,-40
+"HELV2681 C. Helvius (11, cf. 12) Fab. Cinna",Violent,31,31,-44
+TURU2692 D. Turullius (1),Violent,45,45,-30
+CAES2701 -. Caesennius (6) Lento,Violent,59,59,-41
+AQUI2708 M'. Aquillius (16) Crassus,Violent,34,34,-41
+CAEC2709 M. Caecilius (45) Cornutus,Violent,32,32,-43
+"MINU2712 -. Minucius (9, cf. 50) Rufus",Violent,32,32,-43
+SALV2718 -. Salvius (6),Violent,32,32,-43
+CASS2723 C. Cassius (80) Pol. Parmensis,Violent,45,45,-30
+PATI2728 Q. Patiscus (1),Violent,45,45,-30
+CASS2742 L. Cassius (15) L. f. Longinus,Violent,33,33,-42
+FLAV2744 C. Flavius (11) Hemicillus,Violent,33,33,-42
+PEDU2752 C. Peducaeus (1),Violent,32,32,-43
+PORC2754 M. Porcius (13) Pap. Cato,Violent,33,33,-42
+VILL2768 -. Villius (4) L. f. Annalis,Violent,33,33,-42
+CLOD2769 L.? Clodius (18) Bithynicus,Violent,35,35,-40
+CORN2774 Q. Cornucius (8),Violent,54,54,-46
+"LAEL2775 D. Laelius (14, cf. 6) D. f. Balbus",Violent,33,33,-42
+LABI2777 Q. Labienus (5) T. f. Parthicus,Violent,36,36,-39
+ANTI2778 Pacuvius Antistius (35) Labeo,Violent,33,33,-42
+SALV2788 Q. Salvidienus (4) Rufus Salvius,Violent,35,35,-40
+VENT2791 -. Ventidius (3),Violent,33,33,-42
+ROSC2797 -. Roscius (2),Violent,33,33,-42
+FUFI2807 C. Fuficius (5) Fal. Fango,Violent,35,35,-40
+CORN2816 C. Cornelius (164) Cn. f. Gallus,Violent,43,43,-26
+CURT2817 Q. Curtius (32) Salassus,Violent,34,34,-41
+POMP2832 Cn.? Pompeius (Menodorus 1) Cn. lib. Menodorus,Violent,40,40,-35
+VELL2836 C. Velleius (2),Violent,60,60,-40
+POMP2854 -. Pompeius (Demochares 7) Demochares Papias,Violent,39,39,-36
+FLAV2870 -. Flavius (94) Gallus,Violent,39,39,-36
+OPPI2874 -. Oppius (34) Statianus,Violent,39,39,-36
+CURI2892 -. Curius (3),Violent,40,40,-35
+"UTTI2978 -. Uttiedius (Tedius 1, RE 5A.1.106-7) L. f. Afer",Violent,46,46,-29
+"POST0307 P. Postumius (60, cf. 1, 51) A. f. A. n. Albinus Regillensis",Violent,36,36,-414
+SEXT0309 P. Sextius (Sestius 5),Violent,36,36,-414
+VALE3113 L. Valerius (310) Praeconinus,Violent,47,47,-78
+ATTI3151 -. Attidius (Atidius 2),Violent,58,58,-67
+CORN3165 C. Cornelius (89) Cethegus,Violent,37,37,-63
+DECI3183 P. Decius (1),Violent,32,32,-43
+PLAE3234 M. Plaetorius (11),Violent,43,43,-82
+QUIN3242 L. Quinctius (13),Violent,35,35,-40
+POST3245 Q. Postumius (21),Violent,44,44,-31
+SILI3262 P. Silicius (1) Corona,Violent,32,32,-43
+STAT3267 -. Statius (1) Vol. 'the Samnite',Violent,80,80,-43
+VIBI3280 C. Vibienus (3),Violent,48,48,-52
+CAES3339 P. Caesetius (5) Rufus,Violent,32,32,-43
+CORN3383 Cn. Cornelius (133) Dolabella,Violent,50,50,-100
+ANON3426 -. - (not in RE) Cillo (or Chilo?),Violent,32,32,-43
+CURT3443 P. Curtius (10) (Salassus),Violent,55,55,-45
+FIDU3465 M. Fidustius (1) Ste.,Violent,84,84,-41
+FLAV3468 C. Flavius (13),Violent,35,35,-40
+VIBI3526 C. Vibius (15) C. f. Pansa,Violent,45,45,-80
+GENU0360 Cn. Genucius (10) M. f. M. n. Augurinus,Violent,54,54,-396
+HATE3702 -. Haterius (1),Violent,34,34,-41
+HELV3703 -. Helvius (10) Blasio,Violent,32,32,-43
+HIRT3707 Q. Hirtuleius (4) L. f. Ser.,Violent,50,50,-75
+IUST3743 -. Iustuleius (10.1340),Violent,52,52,-48
+LICI3749 M. Licinius (20),Violent,41,41,-209
+CAEL3755 -. Caelius (not in RE),Violent,39,39,-86
+OCTA3758 C. Octavius (44) Balbus,Violent,34,34,-41
+OVIN3763 Q. Ovinius (2),Violent,44,44,-31
+PETR3772 -. Petronius (85),Violent,33,33,-42
+"PLAU3775 L. Plautius (Plotius) (10, cf. Munatius 26) Plancus",Violent,57,57,-43
+POMP3866 Q. Pompeius (40) Rufus,Violent,87,87,-88
+LICI3868 -. Licinius (50) Crassus Dives,Violent,88,88,-87
+CORN3869 L. Cornelius (327) Scipio Asiagenus Aemilianus,Violent,48,48,-77
+LUCR3899 Q. Lucretius (35) Vespillo,Violent,45,45,-80
+MANL0391 M. Manlius (51) T. f. A. n. Arn. Sab. Tro. Ste. Capitolinus,Violent,41,41,-384
+POMP3934  Pompeia (54),Violent,79,79,-46
+FABI0396 Q. Fabius (48) M. f. Q. n. Ambustus,Violent,36,36,-389
+"FOLI0402 M. Folius (1, 2) M. f. (Flaccinator)",Violent,60,60,-390
+ALFE4126 Sex. Alfenus (1),Violent,45,45,-80
+LICI4171 -. Licinius (6) Crassus,Violent,86,86,-114
+CLAU4213 -. Claudius (60) Asellus,Violent,96,96,-154
+LICI4214  Licinia (178),Violent,96,96,-154
+FABI4234 -. Fabius (51) Buteo,Violent,80,80,-220
+SERG4265 M.? Sergius (1) (Catilina?),Violent,70,70,-80
+SERV4304  Servilia (104),Violent,95,95,-30
+OCTA4346 -. Octavius (B) C. f. Balbus,Violent,34,34,-41
+CURT4412 C. Curtius (1),Violent,70,70,-80
+FUFI4421 C. Fufius (12) Cita,Violent,48,48,-52
+AURI4546 A. Aurius (2) Clu. Melinus,Violent,45,45,-80
+CAEC4547 Q. Caecilius (21),Violent,45,45,-80
+FELG4550 C. Felginas (Felginas) Vot.,Violent,52,52,-48
+GRAN4551 A. Granius (2) Fal.,Violent,52,52,-48
+TANU4555 L. Tanusius (1),Violent,45,45,-80
+TITI4556 Cn. Titinius (2),Violent,45,45,-80
+VOLU4557 M. Volumnius (5),Violent,45,45,-80
+VOLU4558 -. Volumnius (9),Violent,33,33,-42
+CLON4560 -. Clonius (or Cluvius) (not in RE),Violent,46,46,-104
+VETT4597 -. Vettius (not in RE) Salassus,Violent,59,59,-41
+CAPA4639  Caparronia (not in RE),Violent,9,9,-266
+EGNA4691 -. Egnatius (6),Violent,34,34,-41
+EGNA4692 -. Egnatius (6),Violent,34,34,-41
+ARRU4697 -. Arruntius (2),Violent,57,57,-43
+ARRU4698 -. Arruntius (cf. 2),Violent,59,59,-41
+VETU4701 -. Vetulinus (not in RE) Vetulinus,Violent,34,34,-41
+ANON4722  - (Kleopatra 20) Philopater,Violent,39,39,-30
+GENU0489 L. Genucius (14) M. f. Cn. n. Aventinensis,Violent,38,38,-362
+"BAEB5095 -. Baebius (not in RE, cf. 17)",Violent,45,45,-80
+CONS5096 L. Considius (4),Violent,45,45,-80
+DOMI5097 -. Domitius (not in RE),Violent,45,45,-80
+LAET5098 P. Laetorius (cf. Plaetorius 11),Violent,43,43,-82
+VALE0051 P. Valerius (301) P. f. Volus. n. Poplicola,Violent,65,65,-460
+PAPI5100 C. Papius (12) Mutilus,Violent,45,45,-80
+SALT5101 Sex. Saltius (Saltius),Violent,45,45,-80
+PERP5106 -. (Perperna) (cf. 6),Violent,53,53,-72
+VERS5107 -. Versius (1),Violent,54,54,-71
+AEMI5108 -. Aemilius (not in RE) (Lepidus or Scaurus),Violent,32,32,-43
+LABI5110 -. Labienus (2),Violent,82,82,-43
+LIGA5111 -. Ligarius (1),Violent,34,34,-41
+OCTA5122 C. Octavius (not in RE),Violent,45,45,-30
+TERE5127 M. Terentius (Licinius 110) Varro Lucullus,Violent,33,33,-42
+ANON5132 -. - (2) Largus,Violent,59,59,-41
+ATIL5134 -. Atilius (6),Violent,58,58,-42
+FULV5136 -. Fulvius (3),Violent,57,57,-43
+LOLL5137 -. Lollius (2),Violent,68,68,-82
+"MAMM5138 -. Mammius (Mamius 1, cf. Memmius 6, 13, 14)",Violent,70,70,-80
+MARI5139 -. Marius (2),Violent,70,70,-80
+NANN5141 -. Nanneius (Nanneius),Violent,70,70,-80
+AURI5145 A. Aurius (3),Violent,70,70,-80
+LIGA5147 C. Ligarius (not in RE),Violent,34,34,-41
+ANTI5149 L. Antistius (1),Violent,70,70,-80
+DECI0515 P. Decius (15) Q. f. Mus,Violent,37,37,-340
+AURI5150 L. Aurius (4) (Melinus),Violent,70,70,-80
+LAMP5152 M. Lamponius (Lamponius),Violent,45,45,-80
+"APON5153 Q. Aponius (1, cf. 6)",Violent,59,59,-41
+AURE5154 Q. Aurelius (26),Violent,70,70,-80
+VIBI5156 Sex. Vibius (6),Violent,70,70,-80
+MANL0536 T. Manlius (cf. 57 or 81) (Torquatus),Violent,35,35,-340
+MINU0545  Minucia (68),Violent,13,13,-337
+AULI0571 Q. Aulius (2) Q. f. Q. n. Cerretanus,Violent,60,60,-315
+DECI0596 P. Decius (16) P. f. Q. n. Mus,Violent,45,45,-295
+MINU0614 Ti. Minucius (34) Augurinus,Violent,45,45,-305
+OPIM0648 L. Opimius (12) Pansa,Violent,31,31,-294
+CAEC0673 L. Caecilius (92) Metellus Denter,Violent,58,58,-283
+CORN0674 P. Cornelius (139) Dolabella,Violent,43,43,-282
+VIBE0677 Decius Vibellius (1) Campanus,Violent,143,143,-182
+VALE0679 L. Valerius (59) (Flaccus),Violent,43,43,-282
+DECI0685 P. Decius (17) P. f. P. n. Mus,Violent,46,46,-279
+SEXT0693  Sextilia (31),Violent,27,27,-273
+ATIL0703 M. Atilius (51) M. f. L. n. Pup. Regulus,Violent,50,50,-250
+FABI0709 Q. Fabius (cf. 112) Q. f. Q. n. Maximus Gurges,Violent,35,35,-265
+CORN0723 Cn. Cornelius (341) L. f. Cn. n. Scipio Asina,Violent,40,40,-260
+IUNI0753 L. Iunius (133) C. f. L. n. Pullus,Violent,51,51,-249
+"FABI0077 Q. Fabius (164, cf. 159) K. f.  Vibulanus",Violent,45,45,-480
+POST0788 L. Postumius (40) A. f. A. n. Albinus,Violent,59,59,-216
+FLAM0793 C. Flaminius (2) C. f. L. n.,Violent,44,44,-217
+CORU0800 L. Coruncanius (2),Violent,45,45,-230
+IUNI0801 P. Iunius (26),Violent,45,45,-230
+ATIL0806 M. Atilius (52) M. f. M. n. Regulus,Violent,47,47,-216
+CLAU0810 M. Claudius (220) M. f. M. n. Marcellus,Violent,62,62,-208
+ATIL0813 C. Atilius (48) M. f. M. n. Regulus,Violent,38,38,-225
+CORN0817 Cn. Cornelius (345) L. f. L. n. Scipio Calvus,Violent,45,45,-211
+MINU0820 M. Minucius (52) C. f. C. n. Rufus,Violent,59,59,-216
+AEMI0826 L. Aemilius (118) M. f. M. n. Paullus,Violent,34,34,-216
+CORN0832 P. Cornelius (330) L. f. L. n. Scipio,Violent,44,44,-211
+ANTI0842 M. Antistius (15),Violent,168,168,-82
+SERV0852 Cn. Servilius (61) P. f. Q. n. Geminus,Violent,41,41,-216
+CLAU0858 Ap. Claudius (293) P. f. Ap. n. Pulcher,Violent,36,36,-211
+SEMP0860 Ti. Sempronius (32) Blaesus,Violent,33,33,-217
+CENT0861 C. Centenius (1),Violent,33,33,-217
+SEMP0866 Ti. Sempronius (51) Ti. f. Ti. n. Gracchus,Violent,38,38,-212
+ATIL0875 L. Atilius (13),Violent,34,34,-216
+FURI0876 L. Furius (35) Bibaculus,Violent,34,34,-216
+MANL0088 Cn. Manlius (19) P. f. - n. Cincinnatus,Violent,45,45,-480
+CANT0892 L. Cantilius (1),Violent,34,34,-216
+FLOR0893  Floronia (1),Violent,34,34,-216
+OPIM0894  Opimia (14),Violent,34,34,-216
+FULV0904 Cn. Fulvius (43) Cn. f. Cn. n. Centumalus,Violent,35,35,-210
+QUIN0916 T. Quinctius (38) L. f. L. n. Crispinus,Violent,42,42,-208
+MENE0096 T. Menenius (17) Agrippae f. C. n. Lanatus,Violent,49,49,-476
+"ATIL0964 L. Atilius (15, cf. 13, 14, 16)",Violent,9,9,-216
+OGUL0973 M. Ogulnius (3),Violent,54,54,-196
+QUIN0974 D. Quinctius (7),Violent,40,40,-210
+FLAM0989 C. Flaminius (3) C. f. C. n.,Violent,18,18,-218
+MANL0998 A. Manlius (11),Violent,42,42,-208
